@@ -4,6 +4,9 @@
 
 We are the InnovTechClub from Faculty of Science and Technology of Mohammedia. Our mission is to foster innovation, explore technology, and create a vibrant community passionate about cutting-edge advancements.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=innovtech23&label=Profile%20views&color=0e75b6&style=flat" alt="innovtech" />
+<a href="https://github.com/innovtech23?tab=followers"><img src="https://img.shields.io/github/followers/innovtech23?label=Followers&style=social" alt="GitHub Badge"></a></p>
+
 ## About Us
 
 - 🚀 Dedicated to exploring emerging technologies and promoting innovation.
